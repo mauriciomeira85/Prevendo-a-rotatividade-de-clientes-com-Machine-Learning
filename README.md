@@ -1,5 +1,5 @@
 # Prevendo a rotatividade de clientes com Marchine-Learning
-<img src="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning/blob/main/dataset-cover.png" alt="drawing" width="100%"/>
+<img src="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning/blob/main/Imagens/dataset-cover.png" alt="drawing" width="100%"/>
 
 # 1. Introdução
    
