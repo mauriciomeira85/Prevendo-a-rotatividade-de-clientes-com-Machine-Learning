@@ -48,7 +48,7 @@ Este é um projeto de data sciense and analyts, que envolve a utilização de mo
 
 Os dados foram extraidos da plataforma [Kaggle](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset) Foi feio o downloard do arquivo em csv e importado para o jupyter notebook utilizando a biblioteca pandas. Após isso, foi feito um cópia desses dados.
 
-<img src="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning/blob/main/Imagens/1.png" width="0%"/>
+<img src="https://github.com/mauriciomeira85/Prevendo-a-rotatividade-de-clientes-com-Marchine-Learning/blob/main/Imagens/1.png" width="120%"/>
 
 # 6. Verificando inconsistências nos dados
 
