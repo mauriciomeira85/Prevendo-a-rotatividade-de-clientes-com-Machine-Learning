@@ -183,7 +183,7 @@ Foi feita a exclusão dos valores faltantes.
 ### -  Atributos categóricos
 ![](Imagens/10.png)
 
-### -  Correlação entre as variáveis númericas
+### -  Correlação entre as variáveis categóricas
 ![](Imagens/22.png)
 
 # 9. Preparação dos dados para aprendizagem dos modelos de Marchine Learning
