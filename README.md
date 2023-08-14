@@ -5,7 +5,7 @@
    
   A rotatividade de clientes refere-se ao fenômeno em que os clientes descontinuam seu relacionamento ou assinatura com uma empresa ou provedor de serviços. Representa a taxa na qual os clientes param de usar os produtos ou serviços de uma empresa em um período específico. O churn é uma métrica importante para as empresas, pois afeta diretamente a receita, o crescimento e a retenção de clientes. No contexto do conjunto de dados Churn, o rótulo churn indica se um cliente cancelou ou não. Um cliente cancelado é aquele que decidiu descontinuar sua assinatura ou uso dos serviços da empresa. Por outro lado, um cliente não cancelado é aquele que continua engajado e mantém seu relacionamento com a empresa. Desse modo, a partir do conjunto de dados extraidos da plataforma [Kaggle](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset), este projeto tem a finalidade de criar modelos preditivos para prever a rotatividade de clientes numa determinada empresa.
 
-OBSERVAÇÃO: Caso não esteja conseguindo visualizar o arquivo do jupyter notebook aqui pelo Github, você pode acessar este link: (https://colab.research.google.com/drive/1BxWARe6ZViO0tC2h1bUu2t6QLl-_TdLj).
+OBSERVAÇÃO: Caso não esteja conseguindo visualizar o arquivo do jupyter notebook aqui pelo Github, você pode acessar este link: (https://drive.google.com/file/d/1BxWARe6ZViO0tC2h1bUu2t6QLl-_TdLj/view?usp=sharing).
 
 # 2. Objetivo
 
